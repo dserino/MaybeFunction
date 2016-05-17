@@ -1,0 +1,20 @@
+# This file contains the answer bank for the maybe function
+
+# use '#' for comments anywhere
+# script will first scan for $start, then will
+# interpret answers, cutting off at each line or comment
+
+$start
+# include all premade answers here
+# comment out all line spaces
+Yes!
+No.
+You suck at running this program!
+This is a dumb question.
+Ben and Paulina are destined to be together. #youknowit
+What does the fox say?
+Alice.
+Why?
+Maybe?
+$end
+
